@@ -1,9 +1,0 @@
-H:\SteamLibrary\steamapps\common\My Garage\Mods\Vaz 2108.dll
-H:\SteamLibrary\steamapps\common\My Garage\Mods\Vaz 2108.pdb
-C:\Users\glock\source\repos\Vaz 2108\Vaz 2108\obj\Debug\Vaz 2108.csproj.AssemblyReference.cache
-C:\Users\glock\source\repos\Vaz 2108\Vaz 2108\obj\Debug\Vaz_2108.Properties.Resources.resources
-C:\Users\glock\source\repos\Vaz 2108\Vaz 2108\obj\Debug\Vaz 2108.csproj.GenerateResource.cache
-C:\Users\glock\source\repos\Vaz 2108\Vaz 2108\obj\Debug\Vaz 2108.csproj.CoreCompileInputs.cache
-C:\Users\glock\source\repos\Vaz 2108\Vaz 2108\obj\Debug\Vaz 2108.csproj.CopyComplete
-C:\Users\glock\source\repos\Vaz 2108\Vaz 2108\obj\Debug\Vaz 2108.dll
-C:\Users\glock\source\repos\Vaz 2108\Vaz 2108\obj\Debug\Vaz 2108.pdb
